@@ -1,0 +1,76 @@
+body {margin:0;}
+
+.icon-bar {
+  width: 100%;
+  background-image: url('https://www.pixelstalk.net/wp-content/uploads/2016/10/Desktop-HD-Black-Leather-Pictures.jpg');
+  overflow: auto;
+}
+
+.icon-bar a {
+  float: left;
+  width: 20%;
+  text-align: center;
+  padding: 12px 0;
+  transition: all 0.3s ease;
+  color: white;
+  font-size:40px;
+  font-family:sans-serif;
+
+}
+
+.icon-bar a:hover {
+  background-color:transparent;
+  color: rgb(255, 230, 0);;
+}
+
+.active {
+  background-color:transparent;
+}
+
+input{
+    height:45px;
+ }
+h1{
+  color: rgb(248, 244, 244);
+  font-family: sans-serif;
+  text-align: center;
+  font-size:50px;
+}
+p1{
+  color: black;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 30px;
+  }
+  hr.line1{
+    color: rgb(12, 10, 10);
+    padding: auto;
+  }
+  h2{
+    color: black;
+    font-family: sans-serif;
+     text-align: center;
+     font-size: 20px;
+   
+  }
+ 
+   .col-container {
+    display: table;
+    width: 100%;
+  }
+  .col {
+    display: table-cell;
+    padding: 16px;
+  }
+ .col{
+   color: rgb(255, 230, 0)
+ }
+ p{
+   color: black;
+   font-family: sans-serif;
+   font-weight: 50px;
+   font-size: 50px;
+ }
+ label{
+   font-size: 40px;
+ }
